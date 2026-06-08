@@ -1,5 +1,5 @@
 {
   "appId": "com.sampmods.app",
   "appName": "SAMP Mods",
-  "webDir": "npx cap add android"
+  "webDir": "dist"
 }
